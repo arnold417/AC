@@ -1,0 +1,3 @@
+interface:
+  display_name: "論文閱讀"
+  short_description: "精讀論文並產生繁體中文筆記，核對方法、證據與限制，附來源定位"

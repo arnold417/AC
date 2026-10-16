@@ -1,0 +1,4 @@
+interface:
+  display_name: "社會科學 Essay 寫作"
+  short_description: "從讀題與大綱到論證修訂，連接理論、證據與結論，提供繁體中文說明"
+  default_prompt: "請使用 $social-science-essay，依我的題目與材料協助規劃或修訂文章，檢查切題性、理論、證據與結論是否一致。"
